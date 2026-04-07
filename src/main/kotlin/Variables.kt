@@ -101,23 +101,81 @@
 //}
 
 
+//fun main(args: Array<String>) {
+//val array1 = arrayOf(1,2,3,4)
+//val array2 = arrayOf<Long>(11,12,13,14)
+//    array1.set(0,5)
+//    array1[2] = 6
+//
+//    array2.set(2,10)
+//    array2[3] = 8
+//
+//    for(element in array1){
+//println(element)
+//    }
+//    println("")
+//println()
+//    for(element in array2){
+//println(element)
+//    }
+//}
+
+
+//fun main(){
+//    val name="sekhar"/////Mutuable Variable////
+//    var age=25  //////Immutuable Variable////
+//    age=23
+//    println(name + age)
+//    println(name)
+//}
+
 fun main(args: Array<String>) {
-val array1 = arrayOf(1,2,3,4)
-val array2 = arrayOf<Long>(11,12,13,14)
-    array1.set(0,5)
-    array1[2] = 6
+//    val a=10;
+//    val b="Sekhar"
+//    val c=10000L
+//    val d=3.433
+//    val e=10f
+//    val f=true
+//    val g='s'
 
-    array2.set(2,10)
-    array2[3] = 8
+//    val name="sekhar"
+//    name="pandu"
+//    println(name)
 
-    for(element in array1){
-println(element)
-    }
-    println("")
-println()
-    for(element in array2){
-println(element)
-    }
+//    var name1="sekhar"
+//    name1="p"
+//    name1="s"
+//    name1="se"
+//    name1="sek"
+//    name1="sekh"
+//    name1="sekhar"
+//    println(name1)
+
+
+//    val name="sekhar"
+//    var age=25
+//    val mobileNumber=7993022620
+//    println("My name is $name and my age is $age, My contact details is $mobileNumber")
+
+
+//    val name = "sekhar"
+//    var age = 25
+//    var number=9849681038
+//    var id=""
+//    age=30
+//    id="1234"
+//
+//    println("My name is $name and my age is $age Im an employee on AGSOS My Id is $id")
+//
+
+//    val language: String
+//    val salary: String
+//    salary ="11234471267"
+//    language="Java"
+//    println(salary)
+//    print(language)
+
+
 }
 
 
